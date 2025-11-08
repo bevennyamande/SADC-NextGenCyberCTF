@@ -1,3 +1,3 @@
 ## SADC - NextGenCyberCTF challenge - Sherlock 8
 
-- The the attached pdf file with my write up on how i got first blood on the challenge and my methodology to solve it
+- Find the attached pdf file with my write up on how i got first blood on the challenge and my methodology to solve it
