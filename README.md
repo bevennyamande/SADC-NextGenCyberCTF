@@ -2,6 +2,10 @@
 
 - Find the attached `pdf` file with my write up on how i got first blood on the challenge and my methodology to solve it
 
+- This is our team members
+
+![The team](team-members.png)
+
 - Overally our team was on position `13` out of `68` teams
 
 ![Team](team.png)
